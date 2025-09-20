@@ -28,3 +28,4 @@ Possibilita montar uma lista de participantes e realizar um sorteio para definir
 Italo Vinicios
 
 ## 🌐 Versão online
+**Acesse [aqui](https://italovto.github.io/amigo-secreto/).**
